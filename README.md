@@ -11,3 +11,7 @@ Once the computer is up and running-
 
 3. If a video player is up and running we can play and pause the video,even fast forwarding and rewinding would be possible. 
 And all of these could be done with mere hand gestures.
+
+# HARDAWARES USED:
+1.Arduino Uno
+2.Ultrasonic Sensors.(Qty:2)
